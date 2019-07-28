@@ -12,9 +12,9 @@ A brief overview of Mapbox.com services and features.
 
 **[MapboxGL JS](https://docs.mapbox.com/mapbox-gl-js/api/)** is the vector tile framework replacing the classic JS. [Examples](https://docs.mapbox.com/mapbox-gl-js/examples/) of use are immensly helpful for tinkering to understand how it works.    
 
-Mobile app developers may find the **Navigation SDK** (for [iOS](https://docs.mapbox.com/ios/navigation/overview/), and [Android](https://docs.mapbox.com/android/navigation/overview/)), and **Maps SDK** (for [iOS](https://www.mapbox.com/ios-sdk/maps/), [Andriod](https://www.mapbox.com/android-docs/maps/), and [Unity](https://www.mapbox.com/unity-sdk/maps/)) most useful.    
-
 For those interested in customizing data and tiles, **[Mapbox Studio](https://studio.mapbox.com/)** is for you. The [Studio Manual](https://docs.mapbox.com/studio-manual/overview/) is a starting point for learning, and so are the [how-to videos](https://www.mapbox.com/videos/).     
+
+Mobile app developers may find the **Navigation SDK** (for [iOS](https://docs.mapbox.com/ios/navigation/overview/), and [Android](https://docs.mapbox.com/android/navigation/overview/)), and **Maps SDK** (for [iOS](https://www.mapbox.com/ios-sdk/maps/), [Andriod](https://www.mapbox.com/android-docs/maps/), and [Unity](https://www.mapbox.com/unity-sdk/maps/)) most useful.    
 
 Mapbox also provides **APIs** for programmatic access to their [maps](https://docs.mapbox.com/api/maps/), [navigation](https://docs.mapbox.com/api/navigation/), and [geocoding services](https://docs.mapbox.com/api/search/#geocoding).    
 
